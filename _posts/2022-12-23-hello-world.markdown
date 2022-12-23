@@ -7,13 +7,6 @@ categories: contro organization update
 ---
 {%include latex.html %}
 
-$ \sin x = \frac{1}{2} $ is inline maths
-
-
-$$
-e^{x} = \frac{1}{2} $$
-
-is not 
 
 
 
